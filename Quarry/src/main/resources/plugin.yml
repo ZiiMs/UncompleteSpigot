@@ -1,0 +1,6 @@
+name: Quarry
+version: ${project.version}
+main: me.ziim.quarry.Quarry
+api-version: 1.15
+authors: [ZiiM]
+description: A quarry plugin made by ZiiM

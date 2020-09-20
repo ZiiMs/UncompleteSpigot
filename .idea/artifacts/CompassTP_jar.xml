@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CompassTP:jar">
+    <output-path>F:/Servers/Minecraft/SpigotDev/plugins</output-path>
+    <root id="archive" name="compassTP.jar">
+      <element id="module-output" name="compassTP" />
+    </root>
+  </artifact>
+</component>

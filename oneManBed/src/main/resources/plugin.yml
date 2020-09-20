@@ -1,0 +1,4 @@
+name: OneManBed
+version: ${project.version}
+main: me.ziim.OneManBed
+api-version: 1.13

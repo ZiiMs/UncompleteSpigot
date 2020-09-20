@@ -1,0 +1,4 @@
+name: OneManBed
+version: 1.0-SNAPSHOT
+main: me.ziim.OneManBed
+api-version: 1.13

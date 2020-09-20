@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Quarry/Quarry.iml" filepath="$PROJECT_DIR$/Quarry/Quarry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompassTP/compassTP.iml" filepath="$PROJECT_DIR$/CompassTP/compassTP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mineEnhance/mineEnhance.iml" filepath="$PROJECT_DIR$/mineEnhance/mineEnhance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oneManBed/oneManBed.iml" filepath="$PROJECT_DIR$/oneManBed/oneManBed.iml" />
+    </modules>
+  </component>
+</project>

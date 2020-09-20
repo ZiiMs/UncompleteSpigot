@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mineEnhance" />
+        <module name="compassTP" />
+        <module name="oneManBed" />
+        <module name="Quarry" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CompassTP" target="1.8" />
+      <module name="compassTP" target="1.8" />
+      <module name="EasyScoreboard" target="1.8" />
+      <module name="mineEnhance" target="1.8" />
+      <module name="oneManBed" target="1.8" />
+      <module name="Quarry" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

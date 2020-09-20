@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CompassTP/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CompassTP/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Quarry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Quarry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mineEnhance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mineEnhance/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oneManBed/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/oneManBed/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

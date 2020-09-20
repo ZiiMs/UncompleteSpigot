@@ -1,0 +1,6 @@
+name: MineEnhance
+version: ${project.version}
+main: me.ziim.mineenhance.MineEnhance
+api-version: 1.15
+authors: [ZiiM]
+description: A basic plugin to enhance minning in minecraft

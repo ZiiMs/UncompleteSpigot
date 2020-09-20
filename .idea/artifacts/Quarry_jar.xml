@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Quarry:jar">
+    <output-path>F:/Servers/Minecraft/SpigotDev/plugins</output-path>
+    <root id="archive" name="Quarry.jar">
+      <element id="module-output" name="Quarry" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+name: ScoreBoard
+version: 1.0-SNAPSHOT
+main: easyscoreboard.ScoreBoard
+api-version: 1.13
+authors: [ZiiM]
+description: Scoreboards made easy

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mineEnhance:jar">
+    <output-path>F:/Servers/Minecraft/SpigotDev/plugins</output-path>
+    <root id="archive" name="mineEnhance.jar">
+      <element id="module-output" name="mineEnhance" />
+    </root>
+  </artifact>
+</component>

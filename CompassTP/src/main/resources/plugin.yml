@@ -1,0 +1,11 @@
+name: CompassTP
+version: ${project.version}
+main: me.ziim.compasstp.CompassTP
+api-version: 1.15
+authors: [ZiiM]
+description: A plugin allowing you to TP to your bed using a compass
+
+commands:
+  beacon:
+    descripton: Allows you to rename beacons
+
